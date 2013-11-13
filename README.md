@@ -1,4 +1,4 @@
-navBarAdaptable-mejorUX
+Barra de navegación adaptable
 =======================
 
-Barra de navegación adaptable con Media Queries y JS
+Barra de navegación adaptable con hecha con media queries y JavaScript.
